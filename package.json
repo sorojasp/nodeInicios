@@ -1,0 +1,16 @@
+{
+  "name": "iniciosnode",
+  "version": "1.0.0",
+  "description": "enseñanza de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Stiven Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "colombia-holidays": "0.0.1",
+    "http": "0.0.0",
+    "mysql": "^2.16.0"
+  }
+}
